@@ -1,4 +1,6 @@
 var mynumber = 5
 mynumber = mynumber + 10  // 15
 
-mynumber = -mynumber
+var result = -mynumber
+
+mynumber = -mynumber   //auto assigns the value as a negative
